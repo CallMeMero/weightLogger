@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "C:\\Users\\haack\\Desktop\\sqlite.db",
+            "dialect": "SQLite",
+            "name": "WeightLogger"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
